@@ -38,7 +38,3 @@ Tasks
 How to work with data : 
 1. Use  Session storage or Cookies 
 2. Use File read,write,delete,append system using php
-
-Submission Guideline
-
-Upload your PHP script to a GitHub repository and provide the link to the repository in the submission.
